@@ -1,3 +1,2 @@
-This is the beginning of a new story for git.
+This is the exciting beginning of a new story for git.
 Lets append a line.
-
