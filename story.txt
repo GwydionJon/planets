@@ -1,2 +1,1 @@
 This is the beginning of a new story for git.
-Now I'm actually starting with this story.
